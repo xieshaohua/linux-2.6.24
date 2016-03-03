@@ -52,3 +52,6 @@ cscope.*
 
 *.orig
 *.rej
+
+# .config
+!.config
